@@ -10,5 +10,5 @@ int main() {
       logger("odd");
     }
   }
-return 0;
+  return 0;
 }
