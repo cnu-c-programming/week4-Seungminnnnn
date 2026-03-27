@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "utill.h"
+#include "util.h"
 
 int main() {
   for (int i=0; i < 100; i++) {
